@@ -1,4 +1,4 @@
-# net_lec
+# ASU CSE 434 Computer Networks Lectures by Duo Lu
 Lecture slides links for my computer networks class
 
 
