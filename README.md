@@ -6,4 +6,6 @@ Lecture slides links for my computer networks class
 
 * [Lecture_02_The_Internet_Architecture](https://docs.google.com/presentation/d/11p_kqocfcX9zYVuOBRnirM-lOwUiq8YhLJ1QaG_jNXs/edit?usp=sharing)
 
+* [Lecture_03_Physical Layer](https://docs.google.com/presentation/d/1JPw9jtaDCpUVmN33ktab8oUEiURrYqA-h4CbOOn7XAs/edit?usp=sharing)
 
+* [Lecture_04_Link Layer](https://docs.google.com/presentation/d/1l6aQKHk-nUS-b5PtGkV4zGoYKDeMHVvbTCsgfxpEr18/edit?usp=sharing)
