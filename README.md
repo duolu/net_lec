@@ -13,6 +13,6 @@ Lecture slides links for my computer networks class
 
 # Assignments
 
-* [Assignment 1] (https://docs.google.com/document/d/18Nx2bVLVTJGO4jIrAwxt5it_x7OTUQHkj9fL9SNZlz0/edit?usp=sharing)
+* [Assignment 1](https://docs.google.com/document/d/18Nx2bVLVTJGO4jIrAwxt5it_x7OTUQHkj9fL9SNZlz0/edit?usp=sharing)
 
 
