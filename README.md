@@ -9,3 +9,10 @@ Lecture slides links for my computer networks class
 * [Lecture_03_Physical Layer](https://docs.google.com/presentation/d/1JPw9jtaDCpUVmN33ktab8oUEiURrYqA-h4CbOOn7XAs/edit?usp=sharing)
 
 * [Lecture_04_Link Layer](https://docs.google.com/presentation/d/1l6aQKHk-nUS-b5PtGkV4zGoYKDeMHVvbTCsgfxpEr18/edit?usp=sharing)
+
+
+# Assignments
+
+* [Assignment 1] (https://docs.google.com/document/d/18Nx2bVLVTJGO4jIrAwxt5it_x7OTUQHkj9fL9SNZlz0/edit?usp=sharing)
+
+
