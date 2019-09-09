@@ -1,5 +1,9 @@
 # ASU CSE 434 Computer Networks Lectures by Duo Lu
-Lecture slides links for my computer networks class
+
+* [Syllabus](https://docs.google.com/document/d/1qko-Q9jzb-1CTyBT8h8jwpWBP5pi2dJJmj2iSwlYqjc/edit?usp=sharing)
+
+
+# Lecture Slides
 
 
 * [Lecture_01_Introduction](https://docs.google.com/presentation/d/176RSe3LdyvLN_hiHkxfXF6rlcNIvzPCduzMOb4VeQrQ/edit?usp=sharing)
