@@ -14,9 +14,14 @@
 
 * [Lecture_04_Link Layer](https://docs.google.com/presentation/d/1l6aQKHk-nUS-b5PtGkV4zGoYKDeMHVvbTCsgfxpEr18/edit?usp=sharing)
 
+* [Lecture_05_Ethernet](https://docs.google.com/presentation/d/1rxaW0ZTYFd-V0pKhmbmvquqThY_ZobTPVynY1W-Idc4/edit?usp=sharing)
+
+* [Lecture_06_Wireless LAN](https://docs.google.com/presentation/d/1wh4YyhP14GMgeGRgLuXPmfuhblmFVehIJNgZ7ZaPs0Y/edit?usp=sharing)
+
 
 # Assignments
 
 * [Assignment 1](https://docs.google.com/document/d/18Nx2bVLVTJGO4jIrAwxt5it_x7OTUQHkj9fL9SNZlz0/edit?usp=sharing)
 
+* [Assignment 2](https://docs.google.com/document/d/1u51FDAA0oGnPlJ56H-llEM4N_SS7_I_XQ3RR00OvPlM/edit?usp=sharing)
 
