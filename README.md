@@ -18,6 +18,11 @@
 
 * [Lecture_06_Wireless LAN](https://docs.google.com/presentation/d/1wh4YyhP14GMgeGRgLuXPmfuhblmFVehIJNgZ7ZaPs0Y/edit?usp=sharing)
 
+* [Lecture_07_IP](https://docs.google.com/presentation/d/17jTA_Jl8Zyfh9AVqcZd0qFokbWDY7LrR6VYJ5i0gbzw/edit?usp=sharing)
+
+* [Lecture_08_IP Routing](https://docs.google.com/presentation/d/1nRuSBfAAVEpifilEfMA_drUGWP5daxborKn65DmFfaQ/edit?usp=sharing)
+
+
 
 # Assignments
 
