@@ -22,6 +22,15 @@
 
 * [Lecture_08_IP Routing](https://docs.google.com/presentation/d/1nRuSBfAAVEpifilEfMA_drUGWP5daxborKn65DmFfaQ/edit?usp=sharing)
 
+* [Lecture_09_Transport Layer and UDP](https://docs.google.com/presentation/d/1sqGJ3-2SeqYVuGkstG_nK8-WW3fYUTWhNkcCSZDc8O4/edit?usp=sharing)
+
+* [Lecture_10_TCP](https://docs.google.com/presentation/d/1JXmog9JJafLSClVUI6NMdMHCEWY_yVXGgdY3_7oHKs8/edit?usp=sharing)
+
+* [Lecture_11_Application Layer and WWW](https://docs.google.com/presentation/d/1KJTOcbXzJXV_K7OH14-BcKOH-sikt_Wrevo-BwrFfUg/edit?usp=sharing)
+
+* [Lecture_12_Other Network Applications](https://docs.google.com/presentation/d/1msZzOSmgICx19BgYUbsrVSnwYa1CjJLs14FjDjG_cF4/edit?usp=sharing)
+
+* [Lecture_13_Socket Programming] (https://docs.google.com/presentation/d/1wmSpGCxusxRMi7QX0OnRutqKkTxOFAzQ10oPjh1252o/edit?usp=sharing)
 
 
 # Assignments
@@ -29,4 +38,13 @@
 * [Assignment 1](https://docs.google.com/document/d/18Nx2bVLVTJGO4jIrAwxt5it_x7OTUQHkj9fL9SNZlz0/edit?usp=sharing)
 
 * [Assignment 2](https://docs.google.com/document/d/1u51FDAA0oGnPlJ56H-llEM4N_SS7_I_XQ3RR00OvPlM/edit?usp=sharing)
+
+* [Assignment 3](https://docs.google.com/document/d/1qhCTIDbJLEyaCwG3jlabN9hrZRLSutA_EafIamfLPnw/edit?usp=sharing)
+
+* [Assignment 4](https://docs.google.com/document/d/1E_jHW6Qatd8JdqcwfTnUtsHqnzq6YB8LY_jsVJDtDJk/edit?usp=sharing)
+
+
+
+
+
 
