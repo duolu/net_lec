@@ -30,7 +30,7 @@
 
 * [Lecture_12_Other Network Applications](https://docs.google.com/presentation/d/1msZzOSmgICx19BgYUbsrVSnwYa1CjJLs14FjDjG_cF4/edit?usp=sharing)
 
-* [Lecture_13_Socket Programming] (https://docs.google.com/presentation/d/1wmSpGCxusxRMi7QX0OnRutqKkTxOFAzQ10oPjh1252o/edit?usp=sharing)
+* [Lecture_13_Socket Programming](https://docs.google.com/presentation/d/1wmSpGCxusxRMi7QX0OnRutqKkTxOFAzQ10oPjh1252o/edit?usp=sharing)
 
 
 # Assignments
