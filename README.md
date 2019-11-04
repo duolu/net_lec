@@ -43,8 +43,8 @@
 
 * [Assignment 4](https://docs.google.com/document/d/1E_jHW6Qatd8JdqcwfTnUtsHqnzq6YB8LY_jsVJDtDJk/edit?usp=sharing)
 
+# Written Report
 
-
-
+* [Topics of the report](https://docs.google.com/document/d/1weH2E1Mc8RWh-1rky10H1kReXvqcwtv3vkRVMDQk34Q/edit?usp=sharing)
 
 
