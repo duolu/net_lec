@@ -33,6 +33,8 @@
 * [Lecture_13_Socket Programming](https://docs.google.com/presentation/d/1wmSpGCxusxRMi7QX0OnRutqKkTxOFAzQ10oPjh1252o/edit?usp=sharing)
 
 
+* [Review](https://docs.google.com/presentation/d/1sOZ8YhaAKVG-Po5Y5GFw3Utp2g3AE2d7RwdejabqGVE/edit?usp=sharing)
+
 # Assignments
 
 * [Assignment 1](https://docs.google.com/document/d/18Nx2bVLVTJGO4jIrAwxt5it_x7OTUQHkj9fL9SNZlz0/edit?usp=sharing)
