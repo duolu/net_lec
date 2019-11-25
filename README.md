@@ -49,4 +49,8 @@
 
 * [Topics of the report](https://docs.google.com/document/d/1weH2E1Mc8RWh-1rky10H1kReXvqcwtv3vkRVMDQk34Q/edit?usp=sharing)
 
+* [Report peer review template](https://docs.google.com/spreadsheets/d/1HKDFGfdfuix9WqIQAD_AWPTI3INd3tExTuy-A-XFIMg/edit?usp=sharing)
+
+* [Presentation peer review template](https://docs.google.com/spreadsheets/d/1eKjwj9HjC7e0vvgk8DuKB7m8S9_SwsKhu35WJEn8v-Y/edit?usp=sharing)
+
 
